@@ -9,6 +9,15 @@ i. uno
   ii. dos
 3. segundo
 
+---
+
+Lenguaje   |   Inventor     |   Año
+-----------|:----------------:|----:
+JavaScript | James          | 1995
+Java       | James Gosling  | 1995
+Python     | Fan de MonthyPython  |  22222006
+
+
 
    ```JavaScript
    import System.out.println;
