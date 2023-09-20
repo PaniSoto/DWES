@@ -4,10 +4,10 @@ En este tema se verán los *conceptos básicos*
 
 Se verán los siguientes apartados:
 
-primero
+1. primero
 i. uno
   ii. dos
-    segundo
+3. segundo
 
 
    ```JavaScript
@@ -20,6 +20,11 @@ i. uno
 
 > **Aviso**: Esto debe escribirse en un terminal
 > - nll
+> ```javascript
+> var numero = 5
+> ```
+
+
 
 # Tema 2
 
