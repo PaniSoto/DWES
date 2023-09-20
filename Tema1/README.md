@@ -12,7 +12,7 @@ i. uno
 ---
 
 Lenguaje   |   Inventor     |   Año
------------|:----------------:|----:
+-----------|:--------------:|--------:
 JavaScript | James          | 1995
 Java       | James Gosling  | 1995
 Python     | Fan de MonthyPython  |  22222006
