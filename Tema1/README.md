@@ -2,7 +2,7 @@
 
 En este tema se verán los *conceptos básicos*
 
-![Imágenes varias](/assets/karonte.png)
+![Imágenes varias](Tema1/assets/karonte.png)
 
 
 Se verán los siguientes apartados:
