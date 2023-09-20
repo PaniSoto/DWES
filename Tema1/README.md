@@ -14,7 +14,7 @@ i. uno
 
 ---
 
-![Imágenes varias](/assets/Power_Ranger.jpeg)
+![Imágenes varias](Tema1/assets/Power_Ranger.jpeg)
 
 Lenguaje   |   Inventor     |   Año
 -----------|:--------------:|--------:
@@ -22,7 +22,7 @@ JavaScript | James          | 1995
 Java       | James Gosling  | 1995
 Python     | Fan de MonthyPython  |  22222006
 
-![Imágenes varias](/assets/Cataratas_Niagara_Congeladas.jpg)
+![Imágenes varias](Tema1/assets/Cataratas_Niagara_Congeladas.jpg)
 
    ```JavaScript
    import System.out.println;
@@ -32,7 +32,7 @@ Python     | Fan de MonthyPython  |  22222006
    }
    ```
 
-![Imágenes varias](/assets/Arco_del_Triunfo.jpg)
+![Imágenes varias](Tema1/assets/Arco_del_Triunfo.jpg)
 
 > **Aviso**: Esto debe escribirse en un terminal
 > - nll
